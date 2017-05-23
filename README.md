@@ -1,4 +1,8 @@
 # test
 
-I add some changes to the initiated file.
-add more
+#include <stdio.h>
+
+void main()
+{ 
+  printf("HelloWorld!\n");
+}
